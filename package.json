@@ -24,5 +24,8 @@
   "homepage": "https://github.com/davitshirkhanyan/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.0.2"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
   }
 }
